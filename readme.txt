@@ -1,4 +1,4 @@
 This is a readme text.
 Git is free software.
 Git is a version control system.
-Version 1.0.
+Version 2.0.
